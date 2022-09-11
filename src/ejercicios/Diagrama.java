@@ -1,8 +1,5 @@
 package ejercicios;
 
-import org.w3c.dom.Text;
-import org.w3c.dom.css.RGBColor;
-
 import javax.swing.*;
 import java.awt.*;
 
@@ -25,9 +22,9 @@ public class Diagrama {
         Diagrama[] cortes = {
                 new Diagrama(10, Color.getHSBColor(34, 44, 20)),
                 new Diagrama(10, Color.getHSBColor(50, 28, 93)),
-                new Diagrama(20, Color.getHSBColor(35, 11, 85)),
-                new Diagrama(20, Color.getHSBColor(29, 47, 65)),
-                new Diagrama(40, Color.getHSBColor(13, 84, 73))
+                new Diagrama(10, Color.getHSBColor(35, 11, 85)),
+                new Diagrama(10, Color.getHSBColor(29, 47, 65)),
+                new Diagrama(10, Color.getHSBColor(13, 84, 73))
         };
 
         public Pieza() {

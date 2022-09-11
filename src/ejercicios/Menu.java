@@ -14,8 +14,9 @@ public class Menu {
         System.out.println("7.=Espiral");
         System.out.println("8.=Diagrama Pastel");
         System.out.println("9.=Monito");
-        System.out.println("10.- Visor de imagen");
-//        System.out.println("");
+//        System.out.println("10.- Visor de imagen");
+        System.out.println("11.- Entrada de mouse");
+        System.out.println("12.- Entrada de teclado");
         System.out.println("12.=Salir");
         System.out.print("Opcion:");
     }

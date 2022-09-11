@@ -15,7 +15,7 @@ public class monito extends JFrame implements ActionListener {
     public void paint (Graphics g) {
         super.paint(g);
         g.setColor(Color.black);
-        g.drawString("Monito", 210, 80);
+        g.drawString("Monoto", 210, 80);
         /**Sonrisa**/
         g.drawArc(120, 70, 30, 30, 180, 180);
         /**Cabeza**/
